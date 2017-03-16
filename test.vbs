@@ -1,4 +1,4 @@
-FolderPath = "f:\photoes"
+FolderPath = "d:\photoes"
 Set objShell = CreateObject("Shell.Application")
 Set objFolder = objShell.Namespace(FolderPath)
 Set oFSO = CreateObject("Scripting.FileSystemObject")
